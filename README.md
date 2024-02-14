@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&random=false&width=435&lines=Hello!)](https://bkmarzouk.github.io/)
 
-My name is Kareem, and I'm a research software engineer 🔭🧬🌱
+My name is Kareem, and I'm a research software engineer.
 
 <!--
 **bkmarzouk/bkmarzouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
