@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&random=false&width=435&lines=Hello!)]([https://git.io/typing-svg](https://bkmarzouk.github.io/))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&random=false&width=435&lines=Hello!)](https://bkmarzouk.github.io/)
 
 My name is Kareem, and I'm a research software engineer 🔭🧬🌱
 
